@@ -1,6 +1,6 @@
 # Challenge1-Refactor
 
-Semantic, accessibility attributes
+On-the-job ticket assignment: Update title, add semantic logical tags, add accessibility alt attributes, update and condense stylesheet for SEO.
 
 ## User Story
 
@@ -9,7 +9,6 @@ AS A marketing agency assignment
 I WANT a codebase that follows accessibility standards
 
 SO THAT our own site is optimized for search engines.
-
 
 ## Acceptance Criteria
 
@@ -35,3 +34,10 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title.
 
+## Credits
+
+Source code provided by EdX Coding Bootcamp
+
+## License
+
+See attached license file
