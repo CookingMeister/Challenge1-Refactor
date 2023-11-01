@@ -1,6 +1,6 @@
 # Challenge1-Refactor
 
-On-the-job ticket assignment: Update title, add semantic logical tags, add accessibility alt attributes, update and condense stylesheet for SEO.
+On-the-job ticket assignment: Update title, add semantic logical tags, add accessibility alt attributes, update and condense stylesheet for SEO. Added media query for max width just for practice, not required by assignment.
 
 ## User Story
 
