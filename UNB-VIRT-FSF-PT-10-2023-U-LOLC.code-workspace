@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../bootcamp/UNB-VIRT-FSF-PT-10-2023-U-LOLC"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Challenge1-Refactor"
+	}
+}
