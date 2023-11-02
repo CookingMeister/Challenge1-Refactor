@@ -144,34 +144,3 @@ p {
     font-size: 20px;
     font-weight: 700;
 }
-
-/* Media Query - optional */
-@media only screen and (max-width: 1028px) {
-   
-    .content,
-    .sidebar {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        width: auto;
-    }
-
-    .section,
-    .section img,
-    .sidebar,
-    .benefits {
-        display: block;
-        height: auto;
-        width: auto;
-        margin: 5%;
-    }
-
-    li {
-        font-size: 60%;
-    }
-
-    h2 {
-        font-size: 100%;
-    }
-}
